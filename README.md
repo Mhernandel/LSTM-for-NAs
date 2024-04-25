@@ -23,9 +23,12 @@ This method uses loops to inform later events about previous events assigning li
 <img width="330" alt="image" src="https://github.com/Mhernandel/LSTM-for-NAs/assets/71413078/5991a687-44eb-4587-ada1-aba87581ce7a">
 
 ### References:
-•	Lai, G., Chang, W.-C., Yang, Y., & Liu, H. (2017). Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks.https://arxiv.org/pdf/1703.07015.pdf
+•  Lai, G., Chang, W.-C., Yang, Y., & Liu, H. (2017). Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks.https://arxiv.org/pdf/1703.07015.pdf
+
 •	Oláh, C. (2015, August 27). Understanding LSTM Networks. Colah's Blog. https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
 •	Dinesh Y. (2019, December 5). Beginner’s Guide to RNN & LSTMs. https://medium.com/@humble_bee/rnn-recurrent-neural-networks-lstm-842ba7205bbf
+
 •	Gregor, K., Danihelka, I., Graves, A., Rezende, D. J., & Wierstra, D. (2015). DRAW: A recurrent neural network for image generation. arXiv. https://arxiv.org/pdf/1503.04069.pdf
 
 
